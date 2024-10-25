@@ -109,19 +109,6 @@ Noir is an open-source Domain-Specific Language for safe and seamless constructi
 
 - field attributes (../src/field.nr)
 
-### Error handling notes
-
-- 
-- 
-
-### Memory management notes
-
--  
-
-### Build system notes
-
-- 
-
 ## Claims
 
 - it’s the easiest way to write zk applications that are compatible with any proving system.
@@ -132,7 +119,7 @@ Noir is an open-source Domain-Specific Language for safe and seamless constructi
 
 ## Instructions
 
-Requirements: Docker or Noirlang toolchain = 0.36.0
+Requirements: Docker or Noirlang toolchain = 0.34.0
 
 
 #### With Docker
@@ -157,7 +144,7 @@ docker run --name neal-c-noirlang neal-c-noirlang:latest
 
 ### With local install
 
-Requirements: Noirlang toolchain = 0.36.0 and Barretenberg = 0.55.0
+Requirements: Noirlang toolchain = 0.34.0 and Barretenberg = 0.55.0
 
 clone my repository
 
